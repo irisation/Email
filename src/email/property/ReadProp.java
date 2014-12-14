@@ -1,10 +1,9 @@
-package property;
+package email.property;
 
 
 import email.Email;
 
 import java.io.*;
-import java.util.Map;
 import java.util.Properties;
 
 public class ReadProp {

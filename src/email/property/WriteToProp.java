@@ -1,4 +1,4 @@
-package property;
+package email.property;
 
 import email.Email;
 
