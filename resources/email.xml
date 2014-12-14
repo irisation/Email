@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<email emailid="1">
+    <toaddress>toaddress@tut.by</toaddress>
+    <fromaddress>fromaddress@tut.by</fromaddress>
+    <subject>Automation</subject>
+    <body>It's a body of my email</body>
+    <senddate>09.12.2014</senddate>
+</email>

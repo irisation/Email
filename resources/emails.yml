@@ -1,0 +1,14 @@
+-
+  toAddress:  Valid user registration
+  fromAddress:  test30@test.by
+  subject:  Hello
+  body: Jonson
+  sendDate: 10.12.2014
+  emailId:  1
+-
+  toAddress:  Valid user registration
+  fromAddress:  test30@test.by
+  subject:  Hello2
+  body: Jonson
+  sendDate: 10.12.2014
+  emailId:  2

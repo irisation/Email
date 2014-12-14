@@ -1,0 +1,8 @@
+{
+  "emailId": 1,
+  "toAddress": "toaddress@tut.by",
+  "fromAddress": "fromaddress@tut.by",
+  "subject": "Automation",
+  "body": "It's a body of my email",
+  "sendDate": "9.12.2014"
+}

@@ -1,0 +1,3 @@
+body,emailId,fromAddress,sendDate,subject,toAddress
+"How are you?",1,me@tut.by,10.12.2014,Hello,you@tut.by
+"How are you?",2,me1@tut.by,10.12.2014,Hellohh,you1@tut.by

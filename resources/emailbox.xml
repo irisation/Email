@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<box>
+    <email emailid="1">
+        <toaddress>toaddress@tut.by</toaddress>
+        <fromaddress>fromaddress@tut.by</fromaddress>
+        <subject>Automation</subject>
+        <body>It's a body of my email</body>
+        <senddate>09.12.2014</senddate>
+    </email>
+    <email emailid="2">
+        <toaddress>toaddress@tut.com</toaddress>
+        <fromaddress>fromaddress@tut.com</fromaddress>
+        <subject>Automation1</subject>
+        <body>It's a body of my second email</body>
+        <senddate>09.12.2014</senddate>
+    </email>
+</box>

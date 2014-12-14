@@ -1,0 +1,13 @@
+---
+- emailId: 1
+  toAddress: "you@tut.by"
+  fromAddress: "me@tut.by"
+  subject: "Hello"
+  body: "How are you?"
+  sendDate: "10.12.2014"
+- emailId: 2
+  toAddress: "you1@tut.by"
+  fromAddress: "me1@tut.by"
+  subject: "Hellohh"
+  body: "How are you?"
+  sendDate: "10.12.2014"

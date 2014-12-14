@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<emails>
+    <email emailId="1">
+        <body>How are you?</body>
+        <fromAddress>me@tut.by</fromAddress>
+        <sendDate>10.12.2014</sendDate>
+        <subject>Hello</subject>
+        <toAddress>you@tut.by</toAddress>
+    </email>
+    <email emailId="2">
+        <body>How are you?</body>
+        <fromAddress>me1@tut.by</fromAddress>
+        <sendDate>10.12.2014</sendDate>
+        <subject>Hellohh</subject>
+        <toAddress>you1@tut.by</toAddress>
+    </email>
+</emails>
